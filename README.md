@@ -2,9 +2,9 @@
 
 ## Projects:
 
-[Appointment](https://github.com/DIParham/Java-JUnit-Tests/tree/gh-pages/Appointment)
-[Tasks](https://github.com/DIParham/Java-JUnit-Tests/tree/gh-pages/Tasks)
-[Contacts](https://github.com/DIParham/Java-JUnit-Tests/tree/gh-pages/Contacts)
+[Appointment](https://github.com/DIParham/Java-JUnit-Tests/tree/main/Appointment)
+[Tasks](https://github.com/DIParham/Java-JUnit-Tests/tree/main/Tasks)
+[Contacts](https://github.com/DIParham/Java-JUnit-Tests/tree/main/Contacts)
 
 ### Project Overview:
 This compilation of projects utilizes white-box testing, JUnit tests, to ensure the functionality and quality of the Appointment, Contact, and Tasks projects. 
